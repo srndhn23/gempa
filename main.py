@@ -13,7 +13,7 @@ import math
 from fastapi.responses import JSONResponse
 
 import statsmodels.api as sm
-from pandas import datetime
+# from pandas import datetime
 import pandas as pd
 import numpy as np
 from prophet import Prophet
